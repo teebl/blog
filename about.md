@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Trevor travelled to Ontario from Edmonton in 2015 from his comfortable life watering plants to learn the ways of historical carpentry. After completing the (http://www.algonquincollege.com/perth/program/carpentry-and-joinery-heritage/ "Heritage Carpentry and Joinery") course at Algonquin College, he turned his eyes to his next pursuit: programming. Trevor now learns to code part-time, and, using this blog, shares his experience with others.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[trevor.seibel@gmail.com](mailto:trevor.seibel@gmail.com)
