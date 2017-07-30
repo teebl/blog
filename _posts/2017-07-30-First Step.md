@@ -10,5 +10,3 @@ title: First Step
   The aid doesn't stop there. I've gone to meetups and met supportive pros, found [peers to work alongside with](https://tropicalchancer.github.io/projectus/), and have heard dozens of stories from individuals that were once in the same position I am in now. I should also thank [Barry Clark](https://github.com/barryclark), a complete stranger, for the amazing [resource](https://github.com/barryclark/jekyll-now) he made which helped me get this website up and running.
   
   This help from others not only motivates me to keep learning, but also to find a way to contribute back to the community. This blog is a good first step, wouldn't you say?  
-
-[Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
