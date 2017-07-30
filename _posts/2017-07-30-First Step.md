@@ -3,7 +3,7 @@ layout: post
 title: First Step
 ---
 
-  Here's the first post charting my path to becoming a skilled programmer. I have been other things before, including a Plant Waterer, an Emergency Medical Responder, and a [Child](teebl.github.io/images/Trevito.jpg) (teebl.github.io/images/Trevito.jpg). They've all had fun parts, and programming is no different. What makes programming so different is how *connected* it is. Starting this journey has been like flipping a lightswitch on in a room to find there were actually 15,000 other people in the room the whole time. That descriptor may be more troubling than I was aiming for.
+  Here's the first post charting my path to becoming a skilled programmer. I have been other things before, including a Plant Waterer, an Emergency Medical Responder, and a [Child](images/Trevito.jpg). They've all had fun parts, and programming is no different. What makes programming so different is how *connected* it is. Starting this journey has been like flipping a lightswitch on in a room to find there were actually 15,000 other people in the room the whole time. That descriptor may be more troubling than I was aiming for.
 
   What I'm trying to say is the community has contributed so many resources for people like me that it is very encouraging and only slightly overwhelming. Cheatsheets, youtube videos, tutorials, and so much more. I'll talk about [what I've found](https://trello.com/b/EHgkztqp/learn-programming) in the future, but the general takeaway is, as long as I'm willing to learn more, there will be more than enough material to help me along.
   
