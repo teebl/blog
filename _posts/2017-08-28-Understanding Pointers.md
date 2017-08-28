@@ -4,22 +4,37 @@ It's true, pointers are a challenging part of learning to code. The impression t
 
 But I get them, the pointers. Obviously that's a bit of a lie, how much can anyone get of anything? I understand the concept, I can navigate the syntax. That's better. For posterity, and maybe a few inquiring minds, here's how I unpacked all of this in my head.
 
-Pointer
+## Pointer
 
-A pointer points! It knows where to find a slice of information in a computer. It also knows how big that slice is. In the most literal sense, the pointer is an address (in hexadecimal) of another block in memory.
+A pointer points! It knows where to find a chunk of information in a computer. It also knows how big that slice is. In the most literal sense, the pointer is an address (in hexadecimal) of another block in memory.
 
-naming traditions say to throw a 'p' on whatever value is pointing to
+How is this useful? It allows two functions to share the same bit of data. This is like two people sharing a notepad, rather than each having to keep a copy. They can use updated info immediately.
+
+eg: pname
+*Naming traditions say to throw a 'p' on whatever value the pointer is pointing to*
 
 
-##\*\
-Dereference Operator
+## \* (Dereference Operator)
 
 The mysterious asterisk. This one is more challenging because it does more than one thing. In short, it tips off a compiler to use the value pointed to, rather than the address of that value.
 
-Address-of, or, Address-Extraction Operator
+eg \*px
+
+eg:int\*
+*This indicates the value declared is a pointer, specifically for an int-sized block of memory*
+
+## & (Address-of Operator)
 
 This just tells you the address of whatever you pair it with. useful when you need to assign the address to a pointer.
 
+eg: &name_string
+
+
+---
+
+The jist of what I know is this: A pointer is useful for sharing a block of data between multiple functions. This means you can change a word to pig latin in one function, and then the happy birthday function that declared the name variable will be just that much sillier. It's important to remember when you're manipulating a value, and when you're manipulating the address the pointer is holding onto. The dereferencing operator is important in this.
+
+There is certainly more to pointers, just like everything else in programming, but I think this is enough to wet your palate. Have a great week!
 
 
 
