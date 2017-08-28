@@ -11,7 +11,7 @@ A pointer points! It knows where to find a slice of information in a computer. I
 naming traditions say to throw a 'p' on whatever value is pointing to
 
 
-##\*\##
+##\*\
 Dereference Operator
 
 The mysterious asterisk. This one is more challenging because it does more than one thing. In short, it tips off a compiler to use the value pointed to, rather than the address of that value.
