@@ -10,7 +10,7 @@ A pointer points! It knows where to find a chunk of information in a computer. I
 
 How is this useful? It allows two functions to share the same bit of data. This is like two people sharing a notepad, rather than each having to keep a copy. They can use updated info immediately.
 
-eg: pname
+*eg: pname
 
 *Naming traditions say to throw a 'p' on whatever value the pointer is pointing to*
 
@@ -19,9 +19,9 @@ eg: pname
 
 The mysterious asterisk. This one is more challenging because it does more than one thing. In short, it tips off a compiler to use the value pointed to, rather than the address of that value.
 
-eg \*px
+*eg \*px
 
-eg:int\*
+*eg:int\*
 
 *This indicates the value declared is a pointer, specifically for an int-sized block of memory*
 
@@ -29,7 +29,7 @@ eg:int\*
 
 This just tells you the address of whatever you pair it with. useful when you need to assign the address to a pointer.
 
-eg: &name_string
+*eg: &name_string
 
 
 ---
