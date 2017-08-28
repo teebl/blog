@@ -34,6 +34,26 @@ eg: &name_string
 
 ---
 
+Here's a bit of a demonstration:
+
+```c
+// first, declare a simple variable
+
+int x = 0;
+
+// Here, I'll make px a pointer, with the address of x the place it's pointing to
+
+int* px = &x;
+
+// Here, px equals something like 0xe34f44ea, the address of x
+
+// I want to change the value of x, and I can do so by using px. I just need a dereferencing operator
+
+*px = 1
+
+//now, if I were to ask the value of x, I'd get a 1 back
+
+```
 The jist of what I know is this: A pointer is useful for sharing a block of data between multiple functions. This means you can change a word to pig latin in one function, and then the happy birthday function that declared the name variable will be just that much sillier. It's important to remember when you're manipulating a value, and when you're manipulating the address the pointer is holding onto. The dereferencing operator is important in this.
 
 
