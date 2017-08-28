@@ -54,6 +54,8 @@ int* px = &x;
 //now, if I were to ask the value of x, I'd get a 1 back
 
 ```
+
+---
 The jist of what I know is this: A pointer is useful for sharing a block of data between multiple functions. This means you can change a word to pig latin in one function, and then the happy birthday function that declared the name variable will be just that much sillier. It's important to remember when you're manipulating a value, and when you're manipulating the address the pointer is holding onto. The dereferencing operator is important in this.
 
 
