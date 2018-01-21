@@ -10,6 +10,6 @@ The trello page I've made has grown in size. Not necessarily *disorderly*, mind 
 
 ![trelloscreen](/images/Foundation/trello01-21-2018.png)
 
-The learning process in programming has milestones, but not nearly as many finish lines. Take the freeCodeCamp program. Once I 'finish' the Front End Certification, the learning path immediately steps into data visualization, then to back end, and so forth. Even the projects I've completed always have little smudges and imperfections to tweak and polish. The challenges take the from of a stream rather than an ocean.
+The learning process in programming has milestones, but not nearly as many finish lines. Take the freeCodeCamp program. Once I 'finish' the Front End Certification, the learning path immediately steps into data visualization, then to back end, and so forth. Even the projects I've completed always have little smudges and imperfections to tweak and polish. The challenges take the form of a stream rather than an ocean.
 
-And I've come to really love the constant evolution of programming. Tackling these problems is a satisfying endeavour, that has an even more triumphant victory the harder the struggle. I'm stuck on this stuff, and I'll be sure the next post about it will be sooner rather than later this time ;)
+And I've come to really love the constant evolution of programming. Tackling these problems is a satisfying endeavour, with greater struggles providing even more triumphant victories. I'm stuck on this stuff, and I'll be sure the next post about it will be sooner rather than later this time ;)
