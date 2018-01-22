@@ -8,7 +8,7 @@ Speaking of under the surface, the new website is showing off a couple of web ap
 
 The trello page I've made has grown in size. Not necessarily *disorderly*, mind you, but it is beginning to bulge at the seams. All but the 'Done' category, which has yet to be populated with a single item. I don't think that's due to a lack of conviction on my part, but a circumstance of web development in general. 
 
-![trelloscreen](/images/Foundation/trello01-21-2018.png)
+![trelloscreen](/blog/images/Foundation/trello01-21-2018.png)
 
 The learning process in programming has milestones, but not nearly as many finish lines. Take the freeCodeCamp program. Once I 'finish' the Front End Certification, the learning path immediately steps into data visualization, then to back end, and so forth. Even the projects I've completed always have little smudges and imperfections to tweak and polish. The challenges take the form of a stream rather than an ocean.
 
