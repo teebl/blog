@@ -4,9 +4,9 @@ In case you've been wondering what I've been up to, today is the first day of my
 
 As for the new site, it's showing off some of the awesome skills I've learned over the past few months. The webpage itself utilizes bootstrap heavily, a toolkit I've come to know pretty well, and appreciate it's versatility. It's helpful to have something manage the good looks of a project, while I can focus on the nuts-and-bolts stuff under the surface.
 
-Speaking of under the surface, the new website is showing off a couple of web apps I've made: [A Random Quote Generator](https://codepen.io/teebl/full/JMpRrN) and a [Local Weather App](https://codepen.io/teebl/full/KZeOYG). Both projects are part of the freeCodeCamp front end program. freeCodeCamp has been an excellent resource in developing my skills. Not too much hand holding once you get past the intitial tutorials, and plenty of projects with an excellent forum to scour for those who've encountered the same problems as myself.
+Speaking of under the surface, the new website is showing off a couple of web apps I've made: [A Random Quote Generator](https://codepen.io/teebl/full/JMpRrN) and a [Local Weather App](https://codepen.io/teebl/full/KZeOYG). Both projects are part of the [freeCodeCamp](https://www.freecodecamp.org) front end program. freeCodeCamp has been an excellent resource in developing my skills. Interesting projects, with not too much hand holding once you get past the initial tutorials. freeCodeCamp also has an excellent forum, where I can learn from those who've encountered the same problems as myself.
 
-The trello page I've made has grown in size. Not necessarily *disorderly*, mind you, but it is beginning to bulge at the seems. All but the 'Done' category, which has yet to be populated with a single item. I don't think that's due to a lack of conviction on my part, but a circumstance of web development in general. 
+The trello page I've made has grown in size. Not necessarily *disorderly*, mind you, but it is beginning to bulge at the seams. All but the 'Done' category, which has yet to be populated with a single item. I don't think that's due to a lack of conviction on my part, but a circumstance of web development in general. 
 
 ![trelloscreen](/images/Foundation/trello01-21-2018.png)
 
