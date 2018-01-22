@@ -1,3 +1,8 @@
+---
+layout: post
+title: Understanding Pointers
+---
+
   I have been asked a couple times now by professional programmers if I've started learning pointers yet. They asked the question with a stern look, almost one of concern. My impression is they think I won't make it past it. That I'll throw my hands up in frustration and concede "Computers really ARE hard! I think I'll work in a textile factory instead". They think I'll give up that easy.
 
 It's true, pointers are a challenging part of learning to code. The impression that I get, however, is that these challenges are the bread and butter of tackling this discipline. No heavy lifting, air conditioned offices, and no injuries, save the dent your forehead gets after banging your head against the wall for six hours trying to solve the bug du jour. Frustrating challenges are what computers are really made of.
