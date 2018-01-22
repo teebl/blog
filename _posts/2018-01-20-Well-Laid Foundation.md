@@ -5,7 +5,7 @@ title: Well-Laid Foundation
 
 About five months of time have elapsed since the last blog post. Which is pretty typical for a lot of personal blogs, from what I've seen. I haven't departed from programming, however. In fact I've been quite busy.
 
-In case you've been wondering what I've been up to, today is the first day of my new online portfolio. You can find it at (https://www.teebl.github.io), the former address of this blog. I've put the portfolio to the front-line to show off my skills at webpages, and since this blog was made from a template, it wouldn't really be fair for it to be the first thing to show to potential employers.
+In case you've been wondering what I've been up to, today is the first day of my new online portfolio. You can find it at <https://www.teebl.github.io>, the former address of this blog. I've put the portfolio to the front-line to show off my skills at webpages, and since this blog was made from a template, it wouldn't really be fair for it to be the first thing to show to potential employers.
 
 As for the new site, it's showing off some of the awesome skills I've learned over the past few months. The webpage itself utilizes bootstrap heavily, a toolkit I've come to know pretty well, and appreciate it's versatility. It's helpful to have something manage the good looks of a project, while I can focus on the nuts-and-bolts stuff under the surface.
 
