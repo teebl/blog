@@ -34,13 +34,13 @@ The second prop, `info` was used to include the url, specified with `"inprop": "
 
 I'll save you the rest, but I think you get the idea.
 
-As for the other touches. I used `.append` to build the unordered list of results, but as default all list items were set to `display: none` in the CSS. This allowed me to `fadeIn()` all the results, one by one (using `each()`).
+As for the other touches. I used `append()` to build the unordered list of results, but as default all list items were set to `display: none` in the CSS. This allowed me to `fadeIn()` all the results, one by one (using `each()`).
 
-The cherry on top for this project was when I did some digging and found `"generator: "random"`. freeCodeCamp suggests a random article button for this project, but throws a softball by bluntly suggesting using the link <https://en.wikipedia.org/wiki/Special:Random>.
+The cherry on top for this project was when I did some digging and found `"generator": "random"`. freeCodeCamp suggests a random article button for this project, but throws a softball by bluntly suggesting using the link <https://en.wikipedia.org/wiki/Special:Random>.
 
 With `"generator: "random"`, I can make a similar query to the search query above, but instead it would return ten *random* search results. Not a bad addition, eh?
 
 Thanks for stopping by! Feel free to leave any comments on the codepen, I'll have another post up before you know it.
 
-Anyone in th e
+
 
