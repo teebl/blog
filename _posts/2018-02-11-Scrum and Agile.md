@@ -3,7 +3,7 @@ layout: post
 title: Scrum and Agile
 ---
 
-My top priority in learning to code is just that: learning to code. I focus my time on making things to develop the skill, and in addition it gives me content to add to my portfolio as well. However, it's not lost on me that this isn't all there is programming.
+My top priority in learning to code is just that: *learning to code*. I focus my time on making things to develop the skill, and in addition it gives me content to add to my portfolio as well. However, it's not lost on me that this isn't all there is programming.
 
 That's why I've been looking at [Agile methodology](https://en.wikipedia.org/wiki/Agile_software_development), a way of managing projects and organizing staff structure. Agile seeks to streamline workflow and keep the team focused on the valuable parts of programming. It also aims to give room for the unexpected curveballs that often arise in a project (something I'm very familiar with in my current line of work), and incrementally develop a project with its entirety in mind. This is in contrast to the more traditional methodology called 'waterfall' in which the project would go through a design stage, then a production stage, then finally testing.
 
