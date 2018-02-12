@@ -9,7 +9,7 @@ That's why I've been looking at [Agile methodology](https://en.wikipedia.org/wik
 
 With Agile, the testing is constantly getting tweaks to design, while simultaneously recieving tests to track viability along every step.
 
-Agile has a kind of accomplice, known as Scrum. You can find an excellent page describing the dynamic of Scrum [here](https://www.scrummethodology.com)
+Agile has a kind of accomplice, known as Scrum. You can find an excellent page describing the dynamic of Scrum [here](http://www.scrummethodology.com)
 
 Scrum's aim is to provide a more concrete framework to allow Agile principles to flourish. A team will have a Scrum Master, to be considered a facilitator of the team members. The Scrum Master's primary goal is to remove as many obstacles as possible from the path to acheiving the goals that have been set out. 
 
